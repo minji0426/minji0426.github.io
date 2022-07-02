@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: min_ji                          # the main title
 
-tagline: 블로그 만드는 중...   # it will display as the sub-title
+tagline: today is better than yesterday.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
