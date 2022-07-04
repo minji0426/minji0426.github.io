@@ -1,5 +1,5 @@
 ---
-title: '[Spring] Spring Boot, IntelliJ - invalid source release 오류 해결'
+title: '[SpringBoot] Spring Boot, IntelliJ - invalid source release 오류 해결'
 author: minji0426
 date: 2022-07-04 22:51:30 +9000
 categories: [SpringBoot]
