@@ -3,7 +3,7 @@ title: '[SpringBoot] Spring Boot, IntelliJ - invalid source release 오류 해�
 author: minji0426
 date: 2022-07-04 23:03:30 +9000
 categories: [SpringBoot]
-tags: [TIL][SpringBoot]
+tags: [SpringBoot]
 ---
 
 ## 오류 메세지
