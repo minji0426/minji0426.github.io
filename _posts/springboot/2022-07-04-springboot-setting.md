@@ -15,26 +15,25 @@ tags: [TIL, SpringBoot]
 </br>
  ex) 17이면 17버전을 설치하면 된다.
 
-</br>
-</br>
+
 
 ## 해결 방법
     - 프로젝트 JDK 설정
     - gradle JDK 설정
 
-- File -> Project Structure</br></br>
+- File -> Project Structure
 ![png1](https://i.esdrop.com/d/f/7EjyucZQG9/YZvJF9FnyP.png)
-(+)버튼 눌러서 JDK 추가하기 </br></br>
+(+)버튼 눌러서 JDK 추가하기
 ![png2](https://i.esdrop.com/d/f/7EjyucZQG9/vEEghQjLuf.png)
 ![png3](https://i.esdrop.com/d/f/7EjyucZQG9/I3hPUKYe8H.png)
 
-</br>
 
-- File -> Settings</br></br>
+
+- File -> Settings
 ![png4](https://i.esdrop.com/d/f/7EjyucZQG9/PX13M2TgEc.png)
 ![png5](https://i.esdrop.com/d/f/7EjyucZQG9/8Bo75fN4Hs.png)
 
-</br>
+
 
 ## References
 - [Execution failed for task ':compileJava'. > invalid source release: 11](https://velog.io/@kcho32/Execution-failed-for-task-compileJava.-invalid-source-release-11)
