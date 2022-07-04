@@ -8,11 +8,11 @@ tags: [TIL, SpringBoot]
 
 ## 오류 메세지
     Execution failed for task ':compileJava'. > invalid source release: 11
-- gradle에 설정된 JDK 버전과 IntelliJ에 설정된 JDK 버전이 다르기 때문이다.
- </br>
 
- - 우선 오류 메세지 끝에 숫자(11)에 맞는 버전이 설치되어 있는지 확인하고 맞는 버전의 JDK를 설치하자 [JDK 11 설치하기](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
-</br>
+- gradle에 설정된 JDK 버전과 IntelliJ에 설정된 JDK 버전이 다르기 때문이다.</br>
+
+ - 우선 오류 메세지 끝에 숫자(11)에 맞는 버전이 설치되어 있는지 확인하고 맞는 버전의 JDK를 설치하자 [JDK 11 설치하기](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)</br>
+ 
  ex) 17이면 17버전을 설치하면 된다.
 
 
