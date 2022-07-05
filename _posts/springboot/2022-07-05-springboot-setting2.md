@@ -17,7 +17,7 @@ tags: [TIL, SpringBoot, CMD, JDK]
  
   
 ## 🔍 원인
- 위의 오류 메세지는 [이전 포스팅](http://127.0.0.1:4000/posts/springboot-setting/)과 똑같다.  
+ 위의 오류 메세지는 [이전 포스팅](https://minji0426.github.io/posts/springboot-setting/)과 똑같다.  
 
  IntelliJ에서 빌드 할 때는 프로젝트 구성에서 바꿔준 JDK를 이용하여 빌드가 되지만, gradlew.bat는 프로젝트가 사용하는 JDK의 경로를 알지 못하기 때문에 위와 같은 오류가 한 번 더 발생했다.
 
