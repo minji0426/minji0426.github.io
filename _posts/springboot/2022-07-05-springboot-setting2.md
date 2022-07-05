@@ -8,8 +8,8 @@ tags: [TIL, SpringBoot, CMD, JDK]
 ## 윈도우에서 스프링부트 빌드 하는 법
 - cmd 
     1. 프로젝트 디렉토리로 이동
-    2. gradlew \<endter\> 
-    3. gradlew build \<endter\> 
+    2. gradlew \<enter\> 
+    3. gradlew build \<enter\> 
 
 ## ❗️ 오류 메세지
 
