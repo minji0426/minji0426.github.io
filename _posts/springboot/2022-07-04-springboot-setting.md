@@ -3,13 +3,15 @@ title: '[SpringBoot] Spring Boot, IntelliJ - invalid source release 오류 해�
 author: minji0426
 date: 2022-07-04 23:03:30 +0900
 categories: [TIL, SpringBoot]
-tags: [TIL, SpringBoot]
+tags: [TIL, SpringBoot, IntelliJ, JDK]
 ---
 
-## 오류 메세지
-```
-Execution failed for task ':compileJava'. > invalid source release: 11
-```
+## ❗️ 오류 메세지
+
+> Execution failed for task ':compileJava'. > invalid source release: 11
+
+
+## 🔍 원인
 
 - gradle에 설정된 JDK 버전과 IntelliJ에 설정된 JDK 버전이 다르기 때문이다.
 
@@ -19,12 +21,11 @@ Execution failed for task ':compileJava'. > invalid source release: 11
 
 
 
-## 해결 방법
+## 💡 해결 방법
 
-```
-프로젝트 JDK 설정
-gradle JDK 설정
-```
+> 프로젝트 JDK 설정  
+> gradle JDK 설정
+
 
 - File -> Project Structure
 ![png1](https://i.esdrop.com/d/f/7EjyucZQG9/YZvJF9FnyP.png)
