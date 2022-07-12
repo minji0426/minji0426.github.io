@@ -1,3 +1,8 @@
+## Minji's tech blog🌿
+
+https://minji0426.github.io/
+
+
 
 ## License
 
