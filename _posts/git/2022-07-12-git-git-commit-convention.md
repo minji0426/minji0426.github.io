@@ -37,6 +37,7 @@ tags: [TIL, Git, commit, convention]
 ### ✔️AngularJS
 
 #### 📝커밋 메시지의 형식
+
 ```
 <type>(<scope>): <short summary>
 <BLANK LINE>
@@ -44,6 +45,7 @@ tags: [TIL, Git, commit, convention]
 <BLANK LINE>
 <footer>
 ```
+
 #### 📌헤더
 `<type>(<scope>): <short summary>`
 
