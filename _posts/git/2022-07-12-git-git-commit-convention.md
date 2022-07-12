@@ -1,7 +1,7 @@
 ---
 title: '[Git] Git 커밋 메시지 컨벤션 (Git commit message convention - AngularJS)'
 author: minji0426
-date: 2022-07-12 18:38:30 +0900
+date: 2022-07-12 23:49:10 +0900
 categories: [TIL, Git]
 tags: [TIL, Git, commit, convention]
 ---
