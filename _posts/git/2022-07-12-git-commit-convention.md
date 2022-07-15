@@ -106,7 +106,7 @@ Added new event to $browser:
 
 Breaks $browser.onHashChange, which was removed (use onUrlChange instead)
 ```
-```
+<!-- ```
 fix($compile): couple of unit tests for IE9
 
 Older IEs serialize html uppercased, but IE9 does not...
@@ -124,7 +124,7 @@ Couple of typos fixed:
 - batchLogbatchLog -> batchLog
 - start periodic checking
 - missing brace
-```
+``` -->
 
 
 ## References
