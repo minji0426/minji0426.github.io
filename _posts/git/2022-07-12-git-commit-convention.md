@@ -46,10 +46,12 @@ tags: [TIL, Git, Commit]
 <footer>
 ```
 
-<!-- #### 📌헤더
-`<type>(<scope>): <short summary>`
+#### 📌헤더
+```
+<type>(<scope>): <short summary>
+```
 
-- `<type>`에 들어갈 수 있는 항목들
+- \<type\>에 들어갈 수 있는 항목들
     - `feat` : 새로운 기능 추가
     - `fix` : 버그 수정
     - `docs` : 문서 관련
@@ -61,17 +63,17 @@ tags: [TIL, Git, Commit]
     - `perf` : 성능 개선
     - `chore` : 그 외 자잘한 수정
 
-- `<scope>`에 들어갈 수 있는 항목들
+- \<scope\>에 들어갈 수 있는 항목들
 
     - 어디가 변경되었는지, 변경된 부분은 모두 들어갈 수 있다.
-    <br>
-    예를 들어, $location, $browser, $compile, $rootScope, ngHref, ngClick, ngView
+
+        예를 들어, $location, $browser, $compile, $rootScope, ngHref, ngClick, ngView
     - scope는 생략 가능하다.
 
-- `<short summary>` 요약 설명
+- \<short summary\> 요약 설명
     - 명령문, `현재 시제`로 작성
     - 첫글자 대분자X `소문자`로 작성
-    - 마지막에 `마침표(.) 금지` -->
+    - 마지막에 `마침표(.) 금지`
 
 #### 📌Message Body
 
@@ -86,7 +88,7 @@ tags: [TIL, Git, Commit]
 
 - 해결된 이슈
 
-    - 해결된 이슈는 커밋 메시지 하단에 Closes #<이슈번호> 와 같이 기록되어야 한다.
+    - 해결된 이슈는 커밋 메시지 하단에 Closes #\<이슈번호\> 와 같이 기록되어야 한다.
 
     - 예시
         ```
