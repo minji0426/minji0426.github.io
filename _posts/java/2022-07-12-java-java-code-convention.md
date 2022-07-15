@@ -3,7 +3,7 @@ title: '[Java] 자바 코드 컨벤션 (Java code convention)'
 author: minji0426
 date: 2022-07-12 16:34:30 +0900
 categories: [TIL, Java]
-tags: [TIL, Java, convention]
+tags: [TIL, Java]
 ---
 
 ## Introduction
