@@ -46,7 +46,7 @@ tags: [TIL, Git, Commit]
 <footer>
 ```
 
-#### 📌헤더
+<!-- #### 📌헤더
 `<type>(<scope>): <short summary>`
 
 - `<type>`에 들어갈 수 있는 항목들
@@ -71,7 +71,7 @@ tags: [TIL, Git, Commit]
 - `<short summary>` 요약 설명
     - 명령문, `현재 시제`로 작성
     - 첫글자 대분자X `소문자`로 작성
-    - 마지막에 `마침표(.) 금지`
+    - 마지막에 `마침표(.) 금지` -->
 
 #### 📌Message Body
 
@@ -106,7 +106,7 @@ Added new event to $browser:
 
 Breaks $browser.onHashChange, which was removed (use onUrlChange instead)
 ```
-<!-- ```
+```
 fix($compile): couple of unit tests for IE9
 
 Older IEs serialize html uppercased, but IE9 does not...
@@ -124,7 +124,7 @@ Couple of typos fixed:
 - batchLogbatchLog -> batchLog
 - start periodic checking
 - missing brace
-``` -->
+```
 
 
 ## References
