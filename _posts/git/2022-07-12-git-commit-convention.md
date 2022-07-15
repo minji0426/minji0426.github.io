@@ -21,6 +21,7 @@ tags: [TIL, Git, Commit, Convention]
 이번 포스팅에서는 AngularJS에 대해 다뤄보고 Udacity는 다음에 다뤄보도록 하겠다.
 
 
+
 ## 📚 Git commit message convention
 
 ### ✔️좋은 git 커밋 메시지를 작성하기 위한 7가지 방법
