@@ -45,7 +45,7 @@ tags: [TIL, Git, Commit]
 <BLANK LINE>
 <footer>
 ```
-<!-- 
+
 #### 📌헤더
 `<type>(<scope>): <short summary>`
 
@@ -130,4 +130,4 @@ Couple of typos fixed:
 ## References
 - [AngularJS Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
-- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://velog.io/@rladpwl0512/Git-commit-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98) -->
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://velog.io/@rladpwl0512/Git-commit-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98)
