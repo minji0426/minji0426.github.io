@@ -1,8 +1,8 @@
 ---
-title: '[blogging] chirpy테마 커스터마이징'
+title: '[blog] chirpy테마 커스터마이징'
 author: minji0426
 date: 2022-07-03 15:22:00 +0900
-categories: [blogging]
+categories: [blog]
 tags: [blog]
 ---
 
@@ -13,7 +13,7 @@ tags: [blog]
 
 ### 추가예정인 커스텀
 
-- 사이드바 메뉴 글자 색 흰색으로 변경
+- ~~사이드바 메뉴 글자 색 흰색으로 변경~~ `완료!`
 - 댓글 기능 추가 
 
 
